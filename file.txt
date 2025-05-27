@@ -1,5 +1,6 @@
 hello linux
 code updated by sk
-hi how are you
-from branch 1 updated code
+hi how are you 
+branch 1 updated code
+
 
